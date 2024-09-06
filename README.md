@@ -71,10 +71,14 @@ Output: The generated image is displayed in the Streamlit app, and the user can 
 
 🖥️ Example:
 -------------
-Below is an example of the interface and a generated image:
+Below are the examples of the interface and a generated image:
 
 Prompt: "A futuristic city skyline at sunset"
-Output:
+Output:![Example2](https://github.com/user-attachments/assets/026a3aa0-05f8-46fa-be43-52514df7b9d7)
+
+Prompt: "Formula one cars in racing tracks"
+Output:![Example1](https://github.com/user-attachments/assets/82d4854f-1042-4bc6-8f0b-92b844d883dc)
+
 
 
 🧪 Technologies Used:
