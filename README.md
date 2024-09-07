@@ -20,7 +20,7 @@ pip (Python package installer)
 -----------------
 Clone the repository:
 
-git clone https://github.com/Panchadip-128/text-to-image-generation.git
+git clone https://github.com/Panchadip-128/Text-to-image-conversion-tool.git
 cd text-to-image-generation
 
 Install dependencies:
