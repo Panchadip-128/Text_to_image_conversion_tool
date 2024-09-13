@@ -58,9 +58,7 @@ Example Prompts:
 
 ├── requirements.txt #Project-dependencies
 ├── README.md   # Project documentation
-└── generated_image.png   
-
-# Example output image
+└── generated_image.png #Example output image
 
 🔧 How It Works:
 -------------------
