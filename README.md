@@ -54,10 +54,13 @@ Example Prompts:
 ----------------------
 
 .
-├── app.py               # Main Python file for running the Streamlit app
-├── requirements.txt      # Project dependencies
-├── README.md             # Project documentation
-└── generated_image.png   # Example output image
+├── app.py   # Main Python file for running the Streamlit app
+
+├── requirements.txt #Project-dependencies
+├── README.md   # Project documentation
+└── generated_image.png   
+
+# Example output image
 
 🔧 How It Works:
 -------------------
